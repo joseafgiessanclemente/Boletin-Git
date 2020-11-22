@@ -5,3 +5,5 @@
 * Archivos de la tarea
 * Documento con el enunciado
 * Documento con las soluciones
+
+> Siempre parece imposible, hasta que se hace (Nelson Mandela)
